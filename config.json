@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvncrypt",
+        "uuid": 5478816,
+        "checksum": "yogml"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
